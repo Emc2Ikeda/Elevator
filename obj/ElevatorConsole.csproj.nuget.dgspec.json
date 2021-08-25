@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emc2i\\source\\repos\\ElevatorConsole\\ElevatorConsole.csproj": {}
+    "C:\\Users\\emc2i\\source\\repos\\Elevator\\ElevatorConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emc2i\\source\\repos\\ElevatorConsole\\ElevatorConsole.csproj": {
+    "C:\\Users\\emc2i\\source\\repos\\Elevator\\ElevatorConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emc2i\\source\\repos\\ElevatorConsole\\ElevatorConsole.csproj",
+        "projectUniqueName": "C:\\Users\\emc2i\\source\\repos\\Elevator\\ElevatorConsole.csproj",
         "projectName": "ElevatorConsole",
-        "projectPath": "C:\\Users\\emc2i\\source\\repos\\ElevatorConsole\\ElevatorConsole.csproj",
+        "projectPath": "C:\\Users\\emc2i\\source\\repos\\Elevator\\ElevatorConsole.csproj",
         "packagesPath": "C:\\Users\\emc2i\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emc2i\\source\\repos\\ElevatorConsole\\obj\\",
+        "outputPath": "C:\\Users\\emc2i\\source\\repos\\Elevator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emc2i\\AppData\\Roaming\\NuGet\\NuGet.Config",
